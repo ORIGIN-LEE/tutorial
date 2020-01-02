@@ -8,3 +8,4 @@ merge: 변경 이력을 합침
 
 git status : 상태확인은 늘 필요합니다.
 git checkout -t <branch_name>: 원격에 존재하는 브랜치를 로컬로 가져올 수 있다.
+git branch: 새로운 브랜치 생성
